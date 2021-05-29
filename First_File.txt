@@ -1,3 +1,6 @@
 This is the first file of the lesson
 
 This is the second entry to the file.
+
+This section is written after remote repository creation. 
+From this point on files will be pushed.
